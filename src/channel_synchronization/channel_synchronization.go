@@ -22,5 +22,5 @@ func main() {
 	done := make(chan bool, 1)
 	go worker(done)
 	
-	<- done // Block until we receive a notification forom the worker on the channel
+	<- done // Block until we receive a notification from the worker on the channel
 }
