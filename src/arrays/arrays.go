@@ -1,6 +1,5 @@
 // Name: golang-example
 // Author: jiasir (Taio Jia) <jiasir@icloud.com>
-// Source: https://github.com/nofdev/go-by-example
 // License: The MIT License
 
 //In Go, an array is a numbered sequence of elements of a specific length.

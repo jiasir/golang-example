@@ -1,6 +1,5 @@
 // Name: golang-example
 // Author: jiasir (Taio Jia) <jiasir@icloud.com>
-// Source: https://github.com/nofdev/go-by-example
 // License: The MIT License
 
 // By default channels are unbuffered, meaning that they will only accept sends (chan <-)

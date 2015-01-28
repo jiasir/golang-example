@@ -1,6 +1,5 @@
 // Name: golang-example
 // Author: jiasir (Taio Jia) <jiasir@icloud.com>
-// Source: https://github.com/nofdev/go-by-example
 // License: The MIT License
 
 // for is Go’s only looping construct. Here are three basic types of for loops.

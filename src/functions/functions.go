@@ -1,6 +1,5 @@
 // Name: golang-example
 // Author: jiasir (Taio Jia) <jiasir@icloud.com>
-// Source: https://github.com/nofdev/go-by-example
 // License: The MIT License
 
 // Functions are central in Go. We’ll learn about functions with a few different examples.
